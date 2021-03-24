@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2620C618-F1DA-4E88-ACB6-48E4AC2B297C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment9Movies/Views/Home/AddMovie.cshtml">
+    <Files>
+      <File FileName="Assignment9Movies/Views/Home/Index.cshtml" Line="11" Column="1" />
+      <File FileName="Assignment9Movies/Views/Shared/_Layout.cshtml" Line="67" Column="1" />
+      <File FileName="Assignment9Movies/Views/Home/Podcasts.cshtml" Line="12" Column="7" />
+      <File FileName="Assignment9Movies/Models/Movie.cs" Line="14" Column="60" />
+      <File FileName="Assignment9Movies/Models/MoviesContext.cs" Line="13" Column="49" />
+      <File FileName="Assignment9Movies/Controllers/HomeController.cs" Line="39" Column="1" />
+      <File FileName="Assignment9Movies/Views/Home/AddMovie.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment9Movies" expanded="True">
+            <Node name="Assignment9Movies" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="AddMovie.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment9Movies PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
