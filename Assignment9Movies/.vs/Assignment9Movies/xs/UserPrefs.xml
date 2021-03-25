@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{2620C618-F1DA-4E88-ACB6-48E4AC2B297C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment9Movies/Views/Home/EditMovie.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment9Movies/Views/Home/ViewMovies.cshtml">
     <Files>
       <File FileName="Assignment9Movies/Views/Home/Index.cshtml" Line="11" Column="1" />
       <File FileName="Assignment9Movies/Views/Shared/_Layout.cshtml" Line="38" Column="139" />
       <File FileName="Assignment9Movies/Views/Home/Podcasts.cshtml" Line="12" Column="7" />
       <File FileName="Assignment9Movies/Models/Movie.cs" Line="14" Column="60" />
       <File FileName="Assignment9Movies/Models/MoviesContext.cs" Line="13" Column="49" />
-      <File FileName="Assignment9Movies/Controllers/HomeController.cs" Line="68" Column="1" />
+      <File FileName="Assignment9Movies/Controllers/HomeController.cs" Line="78" Column="1" />
       <File FileName="Assignment9Movies/Views/Home/AddMovie.cshtml" Line="29" Column="27" />
-      <File FileName="Assignment9Movies/Views/Home/ViewMovies.cshtml" Line="77" Column="1" />
+      <File FileName="Assignment9Movies/Views/Home/ViewMovies.cshtml" Line="64" Column="1" />
       <File FileName="Assignment9Movies/Startup.cs" Line="41" Column="46" />
       <File FileName="Assignment9Movies/appsettings.json" Line="12" Column="4" />
       <File FileName="Assignment9Movies/Views/_ViewImports.cshtml" Line="1" Column="1" />
       <File FileName="Assignment9Movies/Views/Home/EditMovie.cshtml" Line="137" Column="1" />
+      <File FileName="Assignment9Movies/Views/Home/Privacy.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,8 +23,9 @@
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True">
-                  <Node name="EditMovie.cshtml" selected="True" />
+                  <Node name="ViewMovies.cshtml" selected="True" />
                 </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
             </Node>
           </Node>

@@ -53,16 +53,21 @@
                                 <td>@x.LentTo</td>
                                 <td>@x.Notes</td>
                                 <td>
+
+                                    <!-- Forms are used to pass MovieId to various actions in the home controller -->
+
                                     <form method="post" asp-action="RemoveMovie" asp-controller="home">
                                         <input type="hidden" asp-for="@x.MovieId" name="MovieId" value="@x.MovieId" />
                                         <button type="submit" class="btn btn-info">Remove</button>
                                     </form>
                                 </td>
+
                                 <td>
                                     <form method="get" asp-action="EditMovie" asp-controller="home">
                                         <input type="hidden" asp-for="@x.MovieId" name="MovieId" value="@x.MovieId" />
                                         <button type="submit" class="btn btn-info">Edit</button>
                                     </form>
+
                                 </td>
                             </tr>
                         }

@@ -54,7 +54,7 @@ namespace Assignment9Movies.Controllers
 
         public IActionResult ViewMovies()
         {
-            return View("ViewMovies", _context);
+            return View("ViewMovies", _context.Movies);
         }
 
         [HttpPost]
