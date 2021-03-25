@@ -77,3 +77,4 @@
 /Users/quinnchristensen/Documents/GitHub/JuniorCore-IS413/Assignment9Movies/Assignment9Movies/obj/Debug/netcoreapp3.1/Razor/Views/Home/AddMovie.cshtml.g.cs
 /Users/quinnchristensen/Documents/GitHub/JuniorCore-IS413/Assignment9Movies/Assignment9Movies/obj/Debug/netcoreapp3.1/Razor/Views/Home/Podcasts.cshtml.g.cs
 /Users/quinnchristensen/Documents/GitHub/JuniorCore-IS413/Assignment9Movies/Assignment9Movies/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewMovies.cshtml.g.cs
+/Users/quinnchristensen/Documents/GitHub/JuniorCore-IS413/Assignment9Movies/Assignment9Movies/obj/Debug/netcoreapp3.1/Razor/Views/Home/EditMovie.cshtml.g.cs

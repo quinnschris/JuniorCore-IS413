@@ -57,6 +57,28 @@ namespace Assignment9Movies.Controllers
             return View("ViewMovies", _context);
         }
 
+        [HttpPost]
+        public IActionResult RemoveMovie(int movieId)
+        {
+            _context.Movies.Remove(_context.Movies.Where(x => x.MovieId == movieId).FirstOrDefault());
+            _context.SaveChanges();
+            return View("ViewMovies", _context.Movies.Where(x => x.Title != "Independence Day"));
+        }
+
+        [HttpGet]
+        public IActionResult EditMovie(int movieId)
+        {
+            return View(_context.Movies.Where(x => x.MovieId == movieId).FirstOrDefault());
+        }
+
+        [HttpPost]
+        public IActionResult EditMovie(Movie m)
+        {
+            _context.Movies.Update(m);
+            _context.SaveChanges();
+            return View("ViewMovies", _context.Movies.Where(x => x.Title != "Independence Day"));
+        }
+
         public IActionResult Privacy()
         {
             return View();
