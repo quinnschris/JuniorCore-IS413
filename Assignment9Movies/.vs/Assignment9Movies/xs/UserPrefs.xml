@@ -2,18 +2,18 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assignment9Movies/Controllers/HomeController.cs">
     <Files>
       <File FileName="Assignment9Movies/Views/Home/Index.cshtml" Line="11" Column="1" />
-      <File FileName="Assignment9Movies/Views/Shared/_Layout.cshtml" Line="4" Column="16" />
-      <File FileName="Assignment9Movies/Views/Home/Podcasts.cshtml" Line="12" Column="7" />
-      <File FileName="Assignment9Movies/Models/Movie.cs" Line="14" Column="60" />
-      <File FileName="Assignment9Movies/Models/MoviesContext.cs" Line="13" Column="49" />
+      <File FileName="Assignment9Movies/Views/Shared/_Layout.cshtml" />
+      <File FileName="Assignment9Movies/Views/Home/Podcasts.cshtml" />
+      <File FileName="Assignment9Movies/Models/Movie.cs" />
+      <File FileName="Assignment9Movies/Models/MoviesContext.cs" />
       <File FileName="Assignment9Movies/Controllers/HomeController.cs" Line="56" Column="10" />
-      <File FileName="Assignment9Movies/Views/Home/AddMovie.cshtml" Line="29" Column="27" />
-      <File FileName="Assignment9Movies/Views/Home/ViewMovies.cshtml" Line="64" Column="1" />
-      <File FileName="Assignment9Movies/Startup.cs" Line="41" Column="46" />
-      <File FileName="Assignment9Movies/appsettings.json" Line="12" Column="4" />
-      <File FileName="Assignment9Movies/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="Assignment9Movies/Views/Home/EditMovie.cshtml" Line="137" Column="1" />
-      <File FileName="Assignment9Movies/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Assignment9Movies/Views/Home/AddMovie.cshtml" />
+      <File FileName="Assignment9Movies/Views/Home/ViewMovies.cshtml" />
+      <File FileName="Assignment9Movies/Startup.cs" />
+      <File FileName="Assignment9Movies/appsettings.json" />
+      <File FileName="Assignment9Movies/Views/_ViewImports.cshtml" />
+      <File FileName="Assignment9Movies/Views/Home/EditMovie.cshtml" />
+      <File FileName="Assignment9Movies/Views/Home/Privacy.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
